@@ -1,0 +1,454 @@
+fileFormatVersion: 2
+guid: 2bd0b8253e8bf9e4dba4f338e1767752
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3522850217572142942
+    second: D45704768DC878CBEBE5514F2BEDE52E_0
+  - first:
+      213: 4453371312639319424
+    second: D45704768DC878CBEBE5514F2BEDE52E_1
+  - first:
+      213: -6667202941496851399
+    second: D45704768DC878CBEBE5514F2BEDE52E_2
+  - first:
+      213: -1741010430271089828
+    second: D45704768DC878CBEBE5514F2BEDE52E_3
+  - first:
+      213: -5210556125156601861
+    second: D45704768DC878CBEBE5514F2BEDE52E_4
+  - first:
+      213: -449047982666912973
+    second: D45704768DC878CBEBE5514F2BEDE52E_5
+  - first:
+      213: -4463521470895847384
+    second: D45704768DC878CBEBE5514F2BEDE52E_6
+  - first:
+      213: -5819095365252998916
+    second: D45704768DC878CBEBE5514F2BEDE52E_7
+  - first:
+      213: -6525767417092710504
+    second: D45704768DC878CBEBE5514F2BEDE52E_8
+  - first:
+      213: 2961122135376919935
+    second: D45704768DC878CBEBE5514F2BEDE52E_9
+  - first:
+      213: 2748855043178759006
+    second: D45704768DC878CBEBE5514F2BEDE52E_10
+  - first:
+      213: -6615958994133746381
+    second: D45704768DC878CBEBE5514F2BEDE52E_11
+  - first:
+      213: 1506090759320970914
+    second: D45704768DC878CBEBE5514F2BEDE52E_12
+  - first:
+      213: 8847483226381994800
+    second: D45704768DC878CBEBE5514F2BEDE52E_13
+  - first:
+      213: 1206964552044638921
+    second: D45704768DC878CBEBE5514F2BEDE52E_14
+  - first:
+      213: -3515087386269411500
+    second: D45704768DC878CBEBE5514F2BEDE52E_15
+  - first:
+      213: 6880584613032119686
+    second: D45704768DC878CBEBE5514F2BEDE52E_16
+  - first:
+      213: -9041058035411405777
+    second: D45704768DC878CBEBE5514F2BEDE52E_17
+  - first:
+      213: 3665659724393877429
+    second: D45704768DC878CBEBE5514F2BEDE52E_18
+  - first:
+      213: 3731017837298826605
+    second: D45704768DC878CBEBE5514F2BEDE52E_19
+  - first:
+      213: -5721892925140487569
+    second: D45704768DC878CBEBE5514F2BEDE52E_20
+  - first:
+      213: 7257359806538346970
+    second: D45704768DC878CBEBE5514F2BEDE52E_21
+  - first:
+      213: -4983503468011602205
+    second: D45704768DC878CBEBE5514F2BEDE52E_22
+  - first:
+      213: 4606299521092288593
+    second: D45704768DC878CBEBE5514F2BEDE52E_23
+  - first:
+      213: 8496769457369366231
+    second: D45704768DC878CBEBE5514F2BEDE52E_24
+  - first:
+      213: -3567835931867508535
+    second: D45704768DC878CBEBE5514F2BEDE52E_25
+  - first:
+      213: -2596324145495516083
+    second: D45704768DC878CBEBE5514F2BEDE52E_26
+  - first:
+      213: 10186378485694856
+    second: D45704768DC878CBEBE5514F2BEDE52E_27
+  - first:
+      213: -3063541835581080041
+    second: D45704768DC878CBEBE5514F2BEDE52E_28
+  - first:
+      213: -3953602551471665656
+    second: D45704768DC878CBEBE5514F2BEDE52E_29
+  - first:
+      213: 2189318545175003395
+    second: D45704768DC878CBEBE5514F2BEDE52E_30
+  - first:
+      213: 2652048561575086325
+    second: D45704768DC878CBEBE5514F2BEDE52E_31
+  - first:
+      213: 6160614597264621027
+    second: D45704768DC878CBEBE5514F2BEDE52E_32
+  - first:
+      213: -8139900259961372228
+    second: D45704768DC878CBEBE5514F2BEDE52E_33
+  - first:
+      213: -8809329613743101134
+    second: D45704768DC878CBEBE5514F2BEDE52E_34
+  - first:
+      213: 1943208050979353994
+    second: D45704768DC878CBEBE5514F2BEDE52E_35
+  - first:
+      213: -2769853724803512080
+    second: D45704768DC878CBEBE5514F2BEDE52E_36
+  - first:
+      213: 8558512304330719361
+    second: D45704768DC878CBEBE5514F2BEDE52E_37
+  - first:
+      213: -5240841995974106120
+    second: D45704768DC878CBEBE5514F2BEDE52E_38
+  - first:
+      213: -603387697137120540
+    second: D45704768DC878CBEBE5514F2BEDE52E_39
+  - first:
+      213: -686142287105457302
+    second: D45704768DC878CBEBE5514F2BEDE52E_40
+  - first:
+      213: -9127863135126105166
+    second: D45704768DC878CBEBE5514F2BEDE52E_41
+  - first:
+      213: 5877814257500369250
+    second: D45704768DC878CBEBE5514F2BEDE52E_42
+  - first:
+      213: 1514355387241627077
+    second: D45704768DC878CBEBE5514F2BEDE52E_43
+  - first:
+      213: -7530701667563108158
+    second: D45704768DC878CBEBE5514F2BEDE52E_44
+  - first:
+      213: 7196349184898951237
+    second: D45704768DC878CBEBE5514F2BEDE52E_45
+  - first:
+      213: -8445257950166443459
+    second: D45704768DC878CBEBE5514F2BEDE52E_46
+  - first:
+      213: -4900991816986602964
+    second: D45704768DC878CBEBE5514F2BEDE52E_47
+  - first:
+      213: -871327388629861989
+    second: D45704768DC878CBEBE5514F2BEDE52E_48
+  - first:
+      213: 1501757103205664578
+    second: D45704768DC878CBEBE5514F2BEDE52E_49
+  - first:
+      213: -884086896431491006
+    second: D45704768DC878CBEBE5514F2BEDE52E_50
+  - first:
+      213: 7629591045614750719
+    second: D45704768DC878CBEBE5514F2BEDE52E_51
+  - first:
+      213: 5412601948942591883
+    second: D45704768DC878CBEBE5514F2BEDE52E_52
+  - first:
+      213: -4580536494235134373
+    second: D45704768DC878CBEBE5514F2BEDE52E_53
+  - first:
+      213: 3574124780828347658
+    second: D45704768DC878CBEBE5514F2BEDE52E_54
+  - first:
+      213: 1738180902040040121
+    second: D45704768DC878CBEBE5514F2BEDE52E_55
+  - first:
+      213: 6054478483342180865
+    second: D45704768DC878CBEBE5514F2BEDE52E_56
+  - first:
+      213: 8838954088222099252
+    second: D45704768DC878CBEBE5514F2BEDE52E_57
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CaoZuoMenu_0
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 22
+        width: 255
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f2af7dd4d87824db24f5c0be20a939
+      internalID: 331207203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaoZuoMenu_1
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 683
+        width: 450
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cfef7ef3160f745845d9db7e213d03
+      internalID: 1483559032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaoZuoMenu_2
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 537
+        width: 450
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8470fbf82c9c5944e9544630b7261a81
+      internalID: 4382391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaoZuoMenu_3
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 404
+        width: 455
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c87d48bc4fec844a99fdb5f4d11b55b
+      internalID: 980302874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaoZuoMenu_4
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 962
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f98de5f2b94c1a4ab21ac4fe77dc8a8
+      internalID: 497641926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e504030ec37363a4fb0fd5c16a2b5aa6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CaoZuoMenu_0: 331207203
+      CaoZuoMenu_1: 1483559032
+      CaoZuoMenu_2: 4382391
+      CaoZuoMenu_3: 980302874
+      CaoZuoMenu_4: 497641926
+      D45704768DC878CBEBE5514F2BEDE52E_0: 3522850217572142942
+      D45704768DC878CBEBE5514F2BEDE52E_1: 4453371312639319424
+      D45704768DC878CBEBE5514F2BEDE52E_10: 2748855043178759006
+      D45704768DC878CBEBE5514F2BEDE52E_11: -6615958994133746381
+      D45704768DC878CBEBE5514F2BEDE52E_12: 1506090759320970914
+      D45704768DC878CBEBE5514F2BEDE52E_13: 8847483226381994800
+      D45704768DC878CBEBE5514F2BEDE52E_14: 1206964552044638921
+      D45704768DC878CBEBE5514F2BEDE52E_15: -3515087386269411500
+      D45704768DC878CBEBE5514F2BEDE52E_16: 6880584613032119686
+      D45704768DC878CBEBE5514F2BEDE52E_17: -9041058035411405777
+      D45704768DC878CBEBE5514F2BEDE52E_18: 3665659724393877429
+      D45704768DC878CBEBE5514F2BEDE52E_19: 3731017837298826605
+      D45704768DC878CBEBE5514F2BEDE52E_2: -6667202941496851399
+      D45704768DC878CBEBE5514F2BEDE52E_20: -5721892925140487569
+      D45704768DC878CBEBE5514F2BEDE52E_21: 7257359806538346970
+      D45704768DC878CBEBE5514F2BEDE52E_22: -4983503468011602205
+      D45704768DC878CBEBE5514F2BEDE52E_23: 4606299521092288593
+      D45704768DC878CBEBE5514F2BEDE52E_24: 8496769457369366231
+      D45704768DC878CBEBE5514F2BEDE52E_25: -3567835931867508535
+      D45704768DC878CBEBE5514F2BEDE52E_26: -2596324145495516083
+      D45704768DC878CBEBE5514F2BEDE52E_27: 10186378485694856
+      D45704768DC878CBEBE5514F2BEDE52E_28: -3063541835581080041
+      D45704768DC878CBEBE5514F2BEDE52E_29: -3953602551471665656
+      D45704768DC878CBEBE5514F2BEDE52E_3: -1741010430271089828
+      D45704768DC878CBEBE5514F2BEDE52E_30: 2189318545175003395
+      D45704768DC878CBEBE5514F2BEDE52E_31: 2652048561575086325
+      D45704768DC878CBEBE5514F2BEDE52E_32: 6160614597264621027
+      D45704768DC878CBEBE5514F2BEDE52E_33: -8139900259961372228
+      D45704768DC878CBEBE5514F2BEDE52E_34: -8809329613743101134
+      D45704768DC878CBEBE5514F2BEDE52E_35: 1943208050979353994
+      D45704768DC878CBEBE5514F2BEDE52E_36: -2769853724803512080
+      D45704768DC878CBEBE5514F2BEDE52E_37: 8558512304330719361
+      D45704768DC878CBEBE5514F2BEDE52E_38: -5240841995974106120
+      D45704768DC878CBEBE5514F2BEDE52E_39: -603387697137120540
+      D45704768DC878CBEBE5514F2BEDE52E_4: -5210556125156601861
+      D45704768DC878CBEBE5514F2BEDE52E_40: -686142287105457302
+      D45704768DC878CBEBE5514F2BEDE52E_41: -9127863135126105166
+      D45704768DC878CBEBE5514F2BEDE52E_42: 5877814257500369250
+      D45704768DC878CBEBE5514F2BEDE52E_43: 1514355387241627077
+      D45704768DC878CBEBE5514F2BEDE52E_44: -7530701667563108158
+      D45704768DC878CBEBE5514F2BEDE52E_45: 7196349184898951237
+      D45704768DC878CBEBE5514F2BEDE52E_46: -8445257950166443459
+      D45704768DC878CBEBE5514F2BEDE52E_47: -4900991816986602964
+      D45704768DC878CBEBE5514F2BEDE52E_48: -871327388629861989
+      D45704768DC878CBEBE5514F2BEDE52E_49: 1501757103205664578
+      D45704768DC878CBEBE5514F2BEDE52E_5: -449047982666912973
+      D45704768DC878CBEBE5514F2BEDE52E_50: -884086896431491006
+      D45704768DC878CBEBE5514F2BEDE52E_51: 7629591045614750719
+      D45704768DC878CBEBE5514F2BEDE52E_52: 5412601948942591883
+      D45704768DC878CBEBE5514F2BEDE52E_53: -4580536494235134373
+      D45704768DC878CBEBE5514F2BEDE52E_54: 3574124780828347658
+      D45704768DC878CBEBE5514F2BEDE52E_55: 1738180902040040121
+      D45704768DC878CBEBE5514F2BEDE52E_56: 6054478483342180865
+      D45704768DC878CBEBE5514F2BEDE52E_57: 8838954088222099252
+      D45704768DC878CBEBE5514F2BEDE52E_6: -4463521470895847384
+      D45704768DC878CBEBE5514F2BEDE52E_7: -5819095365252998916
+      D45704768DC878CBEBE5514F2BEDE52E_8: -6525767417092710504
+      D45704768DC878CBEBE5514F2BEDE52E_9: 2961122135376919935
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
