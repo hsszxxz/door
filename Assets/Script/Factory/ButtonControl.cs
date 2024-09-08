@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 public class ButtonControl : MonoBehaviour
 {
-    public Button[] buttons;//0:Ç½£¬1£ºÃÅ£¬2£ººĞ×Ó£¬3£ºÇò£¬4£º¼Ó£¬5£º¼õ£¬6£ºÈ¡Ïû
+    public Button[] buttons;//0:å¢™ï¼Œ1ï¼šé—¨ï¼Œ2ï¼šç›’å­ï¼Œ3ï¼šçƒï¼Œ4ï¼šåŠ ï¼Œ5ï¼šå‡ï¼Œ6ï¼šå–æ¶ˆ
     public GameObject ChooseThing;
     private FollowMouse followMouse;
     private string[] prefabName = { "Prefab/Wall", "Prefab/door", "Prefab/box", "Prefab/ball","","Prefab/doorSingle" };

@@ -7,8 +7,8 @@ using UnityEngine.UI;
 
 public class UICanvas : UIWindow
 {
-    public Button[] buttons;//0£ºÔİÍ££¬1£º»Øµ½Ö÷²Ëµ¥£¬2£º¼ÌĞøÓÎÏ·£¬3£ºÍË³ö£¬4£º¿ª¹ØµÆ
-    public Sprite[] lights;//0£º¿ª£¬1:¹Ø
+    public Button[] buttons;//0ï¼šæš‚åœï¼Œ1ï¼šå›åˆ°ä¸»èœå•ï¼Œ2ï¼šç»§ç»­æ¸¸æˆï¼Œ3ï¼šé€€å‡ºï¼Œ4ï¼šå¼€å…³ç¯
+    public Sprite[] lights;//0ï¼šå¼€ï¼Œ1:å…³
     public GameObject lightObj;
     private bool light = false;
     private void Start()
